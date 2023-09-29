@@ -1,0 +1,18 @@
+/* TABLET VIEW */
+
+@media screen and (max-width: 768px ) {
+     .container {
+        width: 90%;
+     }
+}
+
+/* TABLET VIEW */
+
+/* MOBILE VIEW */
+@media  screen and (max-width: 480px) {
+    .container {
+        width: 100%;
+    }
+    
+
+}
